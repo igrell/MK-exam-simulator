@@ -1,0 +1,4 @@
+1. Twierdzenia o wartości średniej dla funkcji jednej zmiennej. Przykłady zastosowań.
+2. Programowanie generyczne – szablony funkcji i klas, polimorfizm statyczny,
+metaprogramowanie.
+3. Zbiór rozwiązań równania x′ = Ax, gdzie A jest rzeczywistą macierzą kwadratową.

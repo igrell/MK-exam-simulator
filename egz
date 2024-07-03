@@ -2,4 +2,4 @@
 min=1
 max=14
 n=$(($RANDOM%($max-$min+1)+$min))
-cat "$n.txt"
+cat "zestawy/${n}.txt"

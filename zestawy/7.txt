@@ -1,0 +1,3 @@
+1. Zbieżność punktowa i jednostajna ciągu i szeregu funkcyjnego. Twierdzenia o ciągłości, całkowalności, różniczkowalności funkcji granicznej.
+2. Lemat Spernera i Twierdzenie Brouwera o punkcie stałym.
+3. Grafy: reprezentacje, metody przeglądania; omówić wybraną metodę.

@@ -1,6 +1,0 @@
-1. Istnienie elementów odwrotnych względem mnożenia w strukturze (Zm, +, ·) w
-zależności od m; rozszerzony algorytm Euklidesa.
-2. Układy chaotyczne – definicja i przykłady.
-3. Zasada algorytmu zachłannego, przykład poprawnego i niepoprawnego wyko-
-rzystania.
-

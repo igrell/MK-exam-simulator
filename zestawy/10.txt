@@ -1,4 +1,3 @@
 1. Ciało liczb zespolonych. Zasadnicze twierdzenie algebry.
 2. Rozmaitości niezmiennicze hiperbolicznych punktów stałych.
 3. Złożoność obliczeniowa algorytmów: definicja, notacja i przykłady.
-

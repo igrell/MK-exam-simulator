@@ -1,0 +1,3 @@
+1. Twierdzenie Lagrange’a w teorii grup i jego zastosowania.
+2. Rozwiązywanie układu równań liniowych: metoda eliminacji Gaussa i metoda Gaussa-Seidla; porównanie metod.
+3. Hierarchia Chomsky’ego: automaty skończone, gramatyki bezkontekstowe i kontekstowe, maszyna Turinga.

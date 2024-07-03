@@ -1,6 +1,0 @@
-1. Całka Riemanna funkcji jednej zmiennej. Definicja, istnienie, interpretacja geo-
-metryczna.
-2. Zmienna losowa: definicja, rodzaje i rozkłady.
-3. Programowanie funkcyjne i jego elementy w językach programowania C++-14 i
-Python (funkcje anonimowe, wskaźniki do funkcji, obiekty funkcyjne, rekursja).
-

@@ -1,4 +1,3 @@
 1. Moc zbioru. Twierdzenie Cantora i Cantora-Bernsteina.
 2. Wektory własne i wartości własne macierzy kwadratowej.
 3. Liczby całkowite i zmiennopozycyjne: sposoby kodowania, dokładność i zakres.
-

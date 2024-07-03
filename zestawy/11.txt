@@ -1,0 +1,3 @@
+1. Homomorfizmy grup i ich podstawowe własności; twierdzenia fundamentalne o izomorfizmach grup; grupy permutacji i twierdzenie Cayley’a.
+2. Metody interpolacji wielomianowej.
+3. Hierarchia Chomsky’ego: automaty skończone, gramatyki bezkontekstowe i kontekstowe, maszyna Turinga.
