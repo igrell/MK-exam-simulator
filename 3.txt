@@ -1,0 +1,5 @@
+1. Szereg potęgowy, promień zbieżności. Funkcje dane przez szeregi potęgowe (np.
+ex, sin x).
+2. Zbiory spójne i składowe spójne
+3. Metoda „dziel i zwyciężaj”: zalety i wady, przykłady zastosowań.
+

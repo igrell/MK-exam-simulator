@@ -1,0 +1,5 @@
+1. Klasyfikacja grup abelowych skończenie generowanych.
+2. Definicja układu dynamicznego. Przykłady.
+3. Programowanie obiektowe i obiektowo orientowane: enkapsulacja, dziedziczenie,
+polimorfizm, klasy abstrakcyjne.
+

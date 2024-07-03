@@ -1,0 +1,4 @@
+1. Prawa wielkich liczb i ich znaczenie.
+2. Grupa homologii symplicjalnych kompleksu symplicjalnego.
+3. Złożoność obliczeniowa algorytmów: definicja, notacja i przykład
+

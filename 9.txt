@@ -1,0 +1,5 @@
+1. Przestrzeń zwarta i jej własności.
+2. Stabilność i asymptotyczna stabilność punktu stałego. Tw. Grobmana-Hartmana
+3. Zasada algorytmu zachłannego, przykład poprawnego i niepoprawnego wyko-
+rzystania.
+

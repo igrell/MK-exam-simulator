@@ -1,0 +1,5 @@
+1. Wielomiany trygonometryczne i szeregi Fouriera.
+2. Grafy hamiltonowskie i eulerowskie; definicje i twierdzenia.
+3. Programowanie obiektowe i obiektowo orientowane: enkapsulacja, dziedziczenie,
+polimorfizm, klasy abstrakcyjne.
+
